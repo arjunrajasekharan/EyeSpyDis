@@ -1,8 +1,14 @@
-![3](https://user-images.githubusercontent.com/60811574/118252377-50f9bb00-b4c6-11eb-83a4-575f8f5094a5.jpeg)
+
 # EyeSpyDis
 A wearable device for disease detection, by processing image of the eye (Iridology).For the proof of concept and MVP, the software was able to differentiate between a healthy eye, and an eye with a cataract.
 
 This software can be expanded to detect more diseases by training.
+
+# Setup
+- Python 3.5
+- Tensorflow 1.5.0
+- CUDA 9.0
+- CUDANN 7.0.5
 
 # Output:
 Screenshots of the working code are provided below:
